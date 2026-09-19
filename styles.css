@@ -1,0 +1,8 @@
+/* Jev Lens — v0.2 uses a traffic-light emoji in the tab title (no CSS coloring).
+   Only the status bar item needs styling. */
+
+.jev-status {
+  color: var(--text-muted);
+  font-size: var(--font-ui-smaller);
+  cursor: default;
+}

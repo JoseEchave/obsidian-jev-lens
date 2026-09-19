@@ -1,0 +1,12 @@
+# Obsidian loads these from the vault copy — never commit local state
+data.json
+*.log
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+
+# dev artifacts
+*.png
+!docs/screenshot.png
+node_modules/

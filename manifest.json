@@ -1,0 +1,9 @@
+{
+  "id": "jev-lens",
+  "name": "Jev Lens",
+  "version": "0.2.0",
+  "minAppVersion": "1.5.0",
+  "description": "Evaluates the active note against your yearly-review lenses with TypeSafe Jev and shows a traffic-light emoji in the note tab title.",
+  "author": "jechave",
+  "isDesktopOnly": true
+}
